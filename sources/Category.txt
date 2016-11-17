@@ -1,0 +1,7 @@
+class Category
+{
+	method getAllCategories()
+	{
+		return "select * from catalogs;";
+	}
+}
