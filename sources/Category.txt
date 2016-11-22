@@ -1,5 +1,6 @@
 class Category
 {
+	//Метод для поиска всех категорий
 	method getAllCategories()
 	{
 		return "select * from catalogs;";
